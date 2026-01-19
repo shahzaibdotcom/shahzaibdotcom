@@ -1,6 +1,6 @@
 ## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I am **Shahzaib Zafar**, a Senior Full Stack Developer specializing in backend technologies such as Core PHP, Laravel, CodeIgniter, NodeJs, ExpressJs, MySQL, NoSQL, and various AWS services. With over 10 years of experience, I have built a reputation for developing large-scale APIs and achieving customer satisfaction rates as high as 95%, while also optimizing server resource utilization.
+I am **Shahzaib Zafar**, a Senior Full Stack Developer specializing in backend technologies such as Core PHP, Laravel, CodeIgniter, NodeJs, ExpressJs, Python, MySQL, NoSQL, and various AWS services. With over 10 years of experience, I have built a reputation for developing large-scale APIs and achieving customer satisfaction rates as high as 95%, while also optimizing server resource utilization.
 
 My deployments on AWS not only guarantee high availability but are streamlined through CI/CD pipelines, including Jenkins integration, BitBucket pipelines, which demonstrates my comprehensive understanding of full software development life cycles. My skill set also extends to proficient project and team management, always focused on meeting deadlines and prioritizing feature implementations effectively, ensuring smooth development operations.
 
@@ -27,6 +27,7 @@ class Shahzaib extends Developer
         return [
             Php::class,
             NodeJs::class,
+            Python::class,
             Laravel::class,
             CodeIgniter::class,
             MySql::class,
@@ -44,7 +45,7 @@ class Shahzaib extends Developer
     public function getSkills(): array
     {
         return [
-            'PHP', 'Node.js', 'CodeIgniter', 'Laravel', 'Yii2', 'Symfony',
+            'PHP', 'Python' 'Node.js', 'CodeIgniter', 'Laravel', 'Yii2', 'Symfony',
             'MySQL', 'Vue.js', 'React.js', 'Angular.js', 'jQuery', 'Onsen UI',
             'LAMP Stack', 'AWS S3', 'AWS EC2', 'AWS ECR', 'AWS EKS', 'MERN Stack',
             'MongoDB', 'ElasticSearch', 'OpenCart', 'Selenium', 'Unit Testing',
@@ -69,6 +70,7 @@ class Shahzaib extends Developer
 ```
 ### ⚡ Technologies
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;&nbsp
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)&nbsp;
