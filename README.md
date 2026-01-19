@@ -70,7 +70,7 @@ class Shahzaib extends Developer
 ```
 ### ⚡ Technologies
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;&nbsp
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)&nbsp;
